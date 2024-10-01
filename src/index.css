@@ -41,6 +41,9 @@ body::-webkit-scrollbar{
   justify-content: center;
   align-items: center;
   gap: 20px;
+  width: 80vw;
+  place-items: center;
+  flex-wrap: wrap;
   margin-top: 20px;
 }
 .search{
